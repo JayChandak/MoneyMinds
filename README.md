@@ -1,3 +1,3 @@
 ﻿# MoneyMinds
-Money Minds is a web-based quiz app with 200+ financial questions, score tracking, and a timer. 
+Web-based quiz app with dynamic finance questions, score tracking, and timer.
 Upcoming Features - Adding new quiz sections and diverse topics.
